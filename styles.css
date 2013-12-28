@@ -1,0 +1,20 @@
+@import url(http://fonts.googleapis.com/css?family=The+Girl+Next+Door|Coming+Soon);
+
+body {
+	background: #7309AA;
+	font-family: 'The Girl Next Door';
+}
+			
+header {
+	color: white;
+	width: 50%;
+	margin-left: 25%;
+	margin-right: 25%;
+	text-align: center;
+}
+			
+h1 {
+	font-size: 4em;
+	font-family: 'Coming Soon';
+	margin-bottom: 0;
+}
